@@ -1,0 +1,38 @@
+[
+ {
+  "productId": 1,
+  "productName": "GLUE",
+  "manufacturer": "Cello",
+  "description": "22.5g",
+  "price": 15,
+  "imageUrl": "assets/imgs/glue.jpg",
+  "rating": 3
+ },
+ {
+  "productId": 2,
+  "productName": "PELICAN",
+  "manufacturer": "Cello",
+  "description": "1pc",
+  "price": 25,
+  "imageUrl": "assets/imgs/pelican.jpg",
+  "rating": 5
+ },
+ {
+  "productId": 3,
+  "productName": "SCISSORS",
+  "manufacturer": "Scotch",
+  "description": "1pc",
+  "price": 45,
+  "imageUrl": "assets/imgs/scissors.jpg",
+  "rating": 3
+ },
+ {
+  "productId": 4,
+  "productName": "TAPE",
+  "manufacturer": "Scotch",
+  "description": "1pc",
+  "price": 150,
+  "imageUrl": "assets/imgs/tape.jpg",
+  "rating": 2
+ }
+]

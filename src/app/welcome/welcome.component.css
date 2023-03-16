@@ -1,0 +1,17 @@
+
+
+.brands{
+    margin-left: 500px;
+    margin-top: 20px;
+    font-size: 35px;
+    font-style: oblique;
+    font-family: Verdana;
+    font-weight: 100;
+    color: gray;
+    text-shadow: #9c9b9b;
+}
+
+.container-styles{
+	position: relative; 
+	top: 150px;
+}

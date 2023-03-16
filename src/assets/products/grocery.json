@@ -1,0 +1,38 @@
+[
+ {
+  "productId": 1,
+  "productName": "SUNFLOWER OIL",
+  "manufacturer": "Gold Winner",
+  "description": "1l",
+  "price": 150,
+  "imageUrl": "assets/imgs/oil.jpg",
+  "rating": 4
+ },
+ {
+  "productId": 2,
+  "productName": "ATTA",
+  "manufacturer": "Ashirvad",
+  "description": "1kg",
+  "price": 70,
+  "imageUrl": "assets/imgs/atta.jpg",
+  "rating": 5
+ },
+ {
+  "productId": 3,
+  "productName": "RICE",
+  "manufacturer": "Ashirvad",
+  "description": "1kg",
+  "price": 74,
+  "imageUrl": "assets/imgs/rice.jpg",
+  "rating": 3
+ },
+ {
+  "productId": 4,
+  "productName": "WHEAT",
+  "manufacturer": "BBroyal",
+  "description": "1kg",
+  "price": 56,
+  "imageUrl": "assets/imgs/wheat.jpg",
+  "rating": 2
+ }
+]

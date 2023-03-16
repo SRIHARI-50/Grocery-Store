@@ -1,0 +1,50 @@
+#To install angular in UI project file
+	npm install @angular/cli
+
+#To create new app in angular
+	ng new Grocery_UI
+
+#TO run the Project file
+	ng serve --open --port 3000
+
+#TO install Bootstrap framework
+	npm install bootstrap --save
+
+#To install JQuery in project file
+	npm i jquery --save
+
+#Paste the Bootstrap css link in styles in angular.json file
+	"node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+#Paste the Jquery js link in scripts in angular.json file
+	"node_modules/jquery/dist/jquery.min.js",
+	"node_modules/bootstrap/dist/js/bootstrap.min.js"
+
+#TO install ExpressJS in API project file
+	npx express-generator 
+	npm install
+	npm run start
+
+#TO install font awesome css icons
+	npm i font-awesome
+
+#Paste the font awesome css link in styles in angular.json files
+	"node_modules/font-awesome/css/font-awesome.min.css", 
+
+#TO generate component in angular file
+	ng g c header
+
+#To install mongoose in api project file
+	npm i mongoose
+
+#TO create modules in angular files
+	ng g module users --route users --module app.module
+
+#TO generate ts file in component
+	ng g service e login
+
+#To rectify the localhost problem
+	npm i cors
+
+#TO install angular materials
+	ng add @angular/material

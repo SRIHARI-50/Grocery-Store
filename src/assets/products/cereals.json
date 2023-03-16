@@ -1,0 +1,38 @@
+[
+ {
+  "productId": 1,
+  "productName": "ALMONDS",
+  "manufacturer": "BBroyal",
+  "description": "100g",
+  "price": 104,
+  "imageUrl": "assets/imgs/almond.jpg",
+  "rating": 3
+ },
+ {
+  "productId": 2,
+  "productName": "CASHEW",
+  "manufacturer": "BBroyal", 
+  "description": "100g",
+  "price": 126,
+  "imageUrl": "assets/imgs/cashew.jpg",
+  "rating": 4
+ },
+ {
+  "productId": 3,
+  "productName": "CHIA SEEDS",
+  "manufacturer": "BBroyal",
+  "description": "100g",
+  "price": 52,
+  "imageUrl": "assets/imgs/chia.jpg",
+  "rating": 3
+ },
+ {
+  "productId": 4,
+  "productName": "CHANA",
+  "manufacturer": "BBroyal",
+  "description": "2kg",
+  "price": 190,
+  "imageUrl": "assets/imgs/chana.jpg",
+  "rating": 2
+ }
+]
