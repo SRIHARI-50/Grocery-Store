@@ -1,4 +1,4 @@
-# MCart
+# Grocery Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Output Screen
+
+https://user-images.githubusercontent.com/112223206/229830160-21af6204-4bdf-4179-a524-78c86c5f1347.mp4
+
